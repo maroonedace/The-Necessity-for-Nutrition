@@ -1,0 +1,1284 @@
+Product Name,Size,Milk,Whip,Serving Size,Calories,Total Fat (g),Saturated Fat (g),Trans Fat (g),Cholesterol (mg),Sodium (mg),Total Carbohydrates (g),Dietary Fiber (g),Sugar (g),Protein (g),Vitamin A (%DV),Vitamin C (%DV),Calcium (%DV),Iron (%DV),Caffeine (mg),Type
+,,,,,,,,,,,,,,,,,,,,
+Brewed Coffee - Dark Roast,Short,N/A,N/A,236 mL,3,0.1,0,0,0,5,0,0,0,0.3,0%,0%,0%,0%,130,Coffee
+Brewed Coffee - Dark Roast,Tall,N/A,N/A,354 mL,4,0.1,0,0,0,10,0,0,0,0.5,0%,0%,0%,0%,193,Coffee
+Brewed Coffee - Dark Roast,Grande,N/A,N/A,473 mL,5,0.1,0,0,0,10,0,0,0,1,0%,0%,0%,0%,260,Coffee
+Brewed Coffee - Dark Roast,Venti®,N/A,N/A,591 mL,5,0.1,0,0,0,10,0,0,0,1,0%,0%,2%,0%,340,Coffee
+Brewed Coffee Traveler - Dark Roast,1 - 236 mL serving,N/A,N/A,236 mL,3,0.1,0,0,0,5,0,0,0,0.3,0%,0%,0%,0%,130,Coffee
+Brewed Coffee - Decaf Pike Place® Roast,Short,N/A,N/A,236 mL,3,0.1,0,0,0,5,0,0,0,0.3,0%,0%,0%,0%,15,Coffee
+Brewed Coffee - Decaf Pike Place® Roast,Tall,N/A,N/A,354 mL,4,0.1,0,0,0,10,0,0,0,0.5,0%,0%,0%,0%,20,Coffee
+Brewed Coffee - Decaf Pike Place® Roast,Grande,N/A,N/A,473 mL,5,0.1,0,0,0,10,0,0,0,1,0%,0%,0%,0%,25,Coffee
+Brewed Coffee - Decaf Pike Place® Roast,Venti®,N/A,N/A,591 mL,5,0.1,0,0,0,10,0,0,0,1,0%,0%,0%,0%,30,Coffee
+Brewed Coffee Traveler - Decaf Pike Place® Roast,1 - 236 mL serving,N/A,N/A,236 mL,3,0.1,0,0,0,5,0,0,0,0.3,0%,0%,0%,0%,15,Coffee
+Brewed Coffee - Medium Roast,Short,N/A,N/A,236 mL,3,0.1,0,0,0,5,0,0,0,0.3,0%,0%,0%,0%,155,Coffee
+Brewed Coffee - Medium Roast,Tall,N/A,N/A,354 mL,4,0.1,0,0,0,10,0,0,0,0.5,0%,0%,0%,0%,235,Coffee
+Brewed Coffee - Medium Roast,Grande,N/A,N/A,473 mL,5,0.1,0,0,0,10,0,0,0,1,0%,0%,0%,0%,310,Coffee
+Brewed Coffee - Medium Roast,Venti®,N/A,N/A,591 mL,5,0.1,0,0,0,10,0,0,0,1,0%,0%,2%,0%,410,Coffee
+Brewed Coffee Traveler - Medium Roast,1 - 236 mL serving,N/A,N/A,236 mL,3,0.1,0,0,0,5,0,0,0,0.3,0%,0%,0%,0%,155,Coffee
+Brewed Coffee - True North Blend Blonde Roast,Short,N/A,N/A,236 mL,3,0.1,0,0,0,5,0,0,0,0.3,0%,0%,0%,0%,180,Coffee
+Brewed Coffee - True North Blend Blonde Roast,Tall,N/A,N/A,354 mL,4,0.1,0,0,0,10,0,0,0,0.5,0%,0%,0%,0%,270,Coffee
+Brewed Coffee - True North Blend Blonde Roast,Grande,N/A,N/A,473 mL,5,0.1,0,0,0,10,0,0,0,1,0%,0%,0%,0%,360,Coffee
+Brewed Coffee - True North Blend Blonde Roast,Venti®,N/A,N/A,591 mL,5,0.1,0,0,0,10,0,0,0,1,0%,0%,2%,0%,475,Coffee
+Brewed Coffee Traveler - True North Blend Blonde Roast,1 - 236 mL serving,N/A,N/A,236 mL,3,0.1,0,0,0,5,0,0,0,0.3,0%,0%,0%,0%,180,Coffee
+Caffè Misto,Short,Nonfat,N/A,236 mL,35,0.1,0.1,0,0,45,5,0,5,4,6%,0%,10%,0%,75,Coffee
+Caffè Misto,Short,2%,N/A,236 mL,50,2,1,0.1,10,50,5,0,5,4,6%,0%,10%,0%,75,Coffee
+Caffè Misto,Short,Whole,N/A,236 mL,70,3.5,2,0.1,10,50,5,0,5,3,4%,0%,10%,0%,75,Coffee
+Caffè Misto,Short,Soy,N/A,236 mL,40,1.5,0.2,0,0,40,3,0,2,3,4%,0%,10%,6%,75,Coffee
+Caffè Misto,Short,Coconut,N/A,236 mL,40,2.5,2.5,0,0,45,4,0,3,0.4,0%,0%,0%,0%,75,Coffee
+Caffè Misto,Tall,Nonfat,N/A,354 mL,60,0.2,0.1,0,5,70,8,0,8,6,10%,0%,20%,0%,115,Coffee
+Caffè Misto,Tall,2%,N/A,354 mL,80,3,1.5,0.1,15,80,8,0,8,5,8%,0%,20%,0%,115,Coffee
+Caffè Misto,Tall,Whole,N/A,354 mL,100,5,3,0.2,15,70,8,0,8,5,8%,0%,15%,0%,115,Coffee
+Caffè Misto,Tall,Soy,N/A,354 mL,60,2.5,0.3,0,0,60,5,1,4,4,6%,0%,20%,8%,115,Coffee
+Caffè Misto,Tall,Coconut,N/A,354 mL,60,3.5,3.5,0,0,70,6,0,5,1,0%,0%,0%,0%,115,Coffee
+Caffè Misto,Grande,Nonfat,N/A,473 mL,70,0.2,0.1,0,5,90,10,0,10,7,15%,0%,25%,0%,150,Coffee
+Caffè Misto,Grande,2%,N/A,473 mL,110,4,2,0.1,15,100,10,0,10,7,10%,0%,25%,0%,150,Coffee
+Caffè Misto,Grande,Whole,N/A,473 mL,130,7,4,0.2,20,95,10,0,10,7,10%,0%,20%,0%,150,Coffee
+Caffè Misto,Grande,Soy,N/A,473 mL,80,3,0.4,0,0,80,6,1,5,6,8%,0%,25%,10%,150,Coffee
+Caffè Misto,Grande,Coconut,N/A,473 mL,70,4.5,4.5,0,0,90,7,0,7,1,0%,0%,0%,0%,150,Coffee
+Caffè Misto,Venti®,Nonfat,N/A,591 mL,90,0.3,0.2,0,5,115,13,0,13,9,15%,0%,30%,0%,195,Coffee
+Caffè Misto,Venti®,2%,N/A,591 mL,130,5,2.5,0.2,20,130,13,0,13,9,15%,0%,30%,0%,195,Coffee
+Caffè Misto,Venti®,Whole,N/A,591 mL,160,9,5,0.3,25,120,13,0,13,9,10%,0%,25%,0%,195,Coffee
+Caffè Misto,Venti®,Soy,N/A,591 mL,100,4,0.5,0,0,100,8,1,6,7,10%,0%,30%,15%,195,Coffee
+Caffè Misto,Venti®,Coconut,N/A,591 mL,80,5,4.5,0,0,90,7,0,7,1,0%,0%,0%,0%,195,Coffee
+Clover® Brewed Coffee - Dark Roast,Short,N/A,N/A,236 mL,10,0,0,0,0,5,0,0,0,0,0%,0%,0%,0%,190,Coffee
+Clover® Brewed Coffee - Dark Roast,Tall,N/A,N/A,354 mL,10,0,0,0,0,10,0,0,0,0,0%,0%,0%,0%,280,Coffee
+Clover® Brewed Coffee - Dark Roast,Grande,N/A,N/A,473 mL,10,0,0,0,0,10,0,0,0,1,0%,0%,0%,0%,380,Coffee
+Clover® Brewed Coffee - Dark Roast,Venti®,N/A,N/A,591 mL,10,0,0,0,0,10,0,0,0,1,0%,0%,0%,0%,470,Coffee
+Clover® Brewed Coffee - Light Roast,Short,N/A,N/A,236 mL,10,0,0,0,0,5,0,0,0,0,0%,0%,0%,0%,155,Coffee
+Clover® Brewed Coffee - Light Roast,Tall,N/A,N/A,354 mL,10,0,0,0,0,10,0,0,0,0,0%,0%,0%,0%,255,Coffee
+Clover® Brewed Coffee - Light Roast,Grande,N/A,N/A,473 mL,10,0,0,0,0,10,0,0,0,1,0%,0%,0%,0%,340,Coffee
+Clover® Brewed Coffee - Light Roast,Venti®,N/A,N/A,591 mL,10,0,0,0,0,10,0,0,0,1,0%,0%,0%,0%,425,Coffee
+Clover® Brewed Coffee - Medium Roast,Short,N/A,N/A,236 mL,10,0,0,0,0,5,0,0,0,0,0%,0%,0%,0%,170,Coffee
+Clover® Brewed Coffee - Medium Roast,Tall,N/A,N/A,354 mL,10,0,0,0,0,10,0,0,0,0,0%,0%,0%,0%,280,Coffee
+Clover® Brewed Coffee - Medium Roast,Grande,N/A,N/A,473 mL,10,0,0,0,0,10,0,0,0,1,0%,0%,0%,0%,375,Coffee
+Clover® Brewed Coffee - Medium Roast,Venti®,N/A,N/A,591 mL,10,0,0,0,0,10,0,0,0,1,0%,0%,0%,0%,445,Coffee
+Iced Coffee,Tall,N/A,N/A,354 mL,60,0,0,0,0,10,15,0,15,0.2,0%,0%,0%,0%,120,Coffee
+Iced Coffee,Grande,N/A,N/A,473 mL,80,0.1,0,0,0,10,20,0,20,0.3,0%,0%,2%,0%,165,Coffee
+Iced Coffee,Venti®,N/A,N/A,709 mL,120,0.1,0,0,0,15,30,0,30,0.4,0%,0%,2%,0%,235,Coffee
+Iced Coffee,Trenta,N/A,N/A,887 mL,160,0.1,0,0,0,15,40,0,39,1,0%,0%,2%,0%,280,Coffee
+Iced Coffee with Milk,Tall,Nonfat,N/A,354 mL,80,0.1,0,0,0,30,17,0,17,2,2%,0%,6%,0%,90,Coffee
+Iced Coffee with Milk,Tall,2%,N/A,354 mL,80,1,0.5,0,5,30,17,0,17,2,2%,0%,6%,0%,90,Coffee
+Iced Coffee with Milk,Tall,Whole,N/A,354 mL,90,1.5,1,0,5,30,17,0,17,2,2%,0%,6%,0%,90,Coffee
+Iced Coffee with Milk,Tall,Soy,N/A,354 mL,80,1,0.1,0,0,25,16,0,16,2,2%,0%,6%,2%,90,Coffee
+Iced Coffee with Milk,Tall,Coconut,N/A,354 mL,80,1,1,0,0,25,17,0,16,0.3,0%,0%,0%,0%,110,Coffee
+Iced Coffee with Milk,Grande,Nonfat,N/A,473 mL,100,0.1,0,0,0,35,23,0,23,2,4%,0%,8%,0%,125,Coffee
+Iced Coffee with Milk,Grande,2%,N/A,473 mL,110,1.5,1,0.1,5,40,23,0,23,2,4%,0%,8%,0%,125,Coffee
+Iced Coffee with Milk,Grande,Whole,N/A,473 mL,120,2,1,0.1,5,35,23,0,23,2,2%,0%,8%,0%,125,Coffee
+Iced Coffee with Milk,Grande,Soy,N/A,473 mL,110,1,0.1,0,0,35,22,0,21,2,2%,0%,8%,4%,125,Coffee
+Iced Coffee with Milk,Grande,Coconut,N/A,473 mL,100,1.5,1.5,0,0,35,22,0,22,0.4,0%,0%,0%,0%,150,Coffee
+Iced Coffee with Milk,Venti®,Nonfat,N/A,709 mL,160,0.1,0.1,0,0,60,35,0,35,4,6%,0%,15%,0%,170,Coffee
+Iced Coffee with Milk,Venti®,2%,N/A,709 mL,170,2,1.5,0.1,10,65,35,0,35,4,6%,0%,15%,0%,170,Coffee
+Iced Coffee with Milk,Venti®,Whole,N/A,709 mL,190,3.5,2,0.1,10,60,35,0,35,4,4%,0%,10%,0%,170,Coffee
+Iced Coffee with Milk,Venti®,Soy,N/A,709 mL,160,1.5,0.2,0,0,55,33,0,32,3,4%,0%,15%,6%,170,Coffee
+Iced Coffee with Milk,Venti®,Coconut,N/A,709 mL,160,2.5,2,0,0,55,33,0,33,1,0%,0%,2%,0%,205,Coffee
+Iced Coffee with Milk,Trenta,Nonfat,N/A,887 mL,210,0.2,0.1,0,5,70,46,0,46,5,8%,0%,15%,0%,190,Coffee
+Iced Coffee with Milk,Trenta,2%,N/A,887 mL,230,3,1.5,0.1,10,80,46,0,46,5,8%,0%,15%,0%,190,Coffee
+Iced Coffee with Milk,Trenta,Whole,N/A,887 mL,240,4.5,2.5,0.1,15,75,46,0,46,5,6%,0%,15%,0%,190,Coffee
+Iced Coffee with Milk,Trenta,Soy,N/A,887 mL,220,2,0.3,0,0,65,44,1,43,4,6%,0%,15%,8%,190,Coffee
+Iced Coffee with Milk,Trenta,Coconut,N/A,887 mL,210,3,3,0,0,70,44,0,44,1,0%,0%,2%,0%,190,Coffee
+Cold Brewed Coffee,Tall,N/A,N/A,354 mL,2,0,0,0,0,10,0,0,0,0.1,0%,0%,0%,0%,150,Coffee
+Cold Brewed Coffee,Grande,N/A,N/A,473 mL,3,0,0,0,0,15,0,0,0,0.2,0%,0%,2%,0%,200,Coffee
+Cold Brewed Coffee,Venti®,N/A,N/A,709 mL,4,0,0,0,0,20,0,0,0,0.3,0%,0%,2%,0%,300,Coffee
+Cold Brewed Coffee,Trenta,N/A,N/A,887 mL,5,0,0,0,0,25,0,0,0,0.3,0%,0%,2%,0%,330,Coffee
+Vanilla Sweet Cream Cold Brew,Tall,N/A,N/A,354 mL,100,6,3.5,0.2,20,20,12,0,12,1,6%,0%,2%,0%,140,Coffee
+Vanilla Sweet Cream Cold Brew,Grande,N/A,N/A,473 mL,110,6,3.5,0.2,20,25,14,0,14,1,6%,0%,4%,0%,185,Coffee
+Vanilla Sweet Cream Cold Brew,Venti®,N/A,N/A,709 mL,200,11,7,0.3,40,40,24,0,24,1,15%,0%,6%,0%,275,Coffee
+Vanilla Sweet Cream Cold Brew,Trenta,N/A,N/A,887 mL,210,11,7,0.3,40,45,26,0,26,2,15%,0%,6%,0%,320,Coffee
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+Caffè Americano,Short,N/A,N/A,236 mL,5,0,0,0,0,5,1,0,0,0,0%,0%,0%,0%,75,Espresso
+Caffè Americano,Tall,N/A,N/A,354 mL,10,0,0,0,0,10,2,0,0,1,0%,0%,2%,0%,150,Espresso
+Caffè Americano,Grande,N/A,N/A,473 mL,15,0,0,0,0,15,3,0,0,1,0%,0%,2%,0%,225,Espresso
+Caffè Americano,Venti®,N/A,N/A,591 mL,25,0,0,0,0,15,4,0,0,1,0%,0%,2%,0%,300,Espresso
+Iced Caffè Americano,Tall,N/A,N/A,354 mL,10,0,0,0,0,10,2,0,0,1,0%,0%,2%,0%,150,Espresso
+Iced Caffè Americano,Grande,N/A,N/A,473 mL,15,0,0,0,0,15,3,0,0,1,0%,0%,2%,0%,225,Espresso
+Iced Caffè Americano,Venti®,N/A,N/A,709 mL,25,0,0,0,0,20,4,0,0,1,0%,0%,2%,0%,300,Espresso
+Caffè Latte,Short,Nonfat,N/A,236 mL,70,0.1,0.1,0,5,75,10,0,9,6,10%,0%,20%,0%,75,Espresso
+Caffè Latte,Short,2%,N/A,236 mL,100,3.5,2.5,0.2,15,85,10,0,9,6,10%,0%,20%,0%,75,Espresso
+Caffè Latte,Short,Whole,N/A,236 mL,110,6,3.5,0.2,20,75,10,0,9,6,8%,0%,20%,0%,75,Espresso
+Caffè Latte,Short,Soy,N/A,236 mL,70,2.5,0.4,0,0,65,6,1,4,5,6%,0%,20%,8%,75,Espresso
+Caffè Latte,Short,Coconut,N/A,236 mL,70,4,4,0,0,75,7,0,6,1,0%,0%,0%,0%,75,Espresso
+Caffè Latte,Tall,Nonfat,N/A,354 mL,100,0.2,0.2,0,5,120,15,0,14,10,15%,0%,30%,0%,75,Espresso
+Caffè Latte,Tall,2%,N/A,354 mL,150,6,3.5,0.2,25,135,15,0,14,10,15%,0%,30%,0%,75,Espresso
+Caffè Latte,Tall,Whole,N/A,354 mL,180,9,5,0.3,30,125,15,0,14,9,15%,0%,30%,0%,75,Espresso
+Caffè Latte,Tall,Soy,N/A,354 mL,110,4.5,0.5,0,0,105,10,1,6,8,10%,0%,30%,15%,75,Espresso
+Caffè Latte,Tall,Coconut,N/A,354 mL,110,7,6,0,0,120,11,0,10,1,0%,0%,0%,0%,75,Espresso
+Caffè Latte,Grande,Nonfat,N/A,473 mL,130,0.3,0.2,0,5,150,19,0,18,13,20%,0%,40%,0%,150,Espresso
+Caffè Latte,Grande,2%,N/A,473 mL,190,7,4.5,0.3,30,170,19,0,17,12,20%,2%,40%,0%,150,Espresso
+Caffè Latte,Grande,Whole,N/A,473 mL,230,11,7,0.3,35,150,19,0,17,12,15%,0%,35%,0%,150,Espresso
+Caffè Latte,Grande,Soy,N/A,473 mL,150,5,0.5,0,0,130,13,1,8,10,15%,0%,40%,15%,150,Espresso
+Caffè Latte,Grande,Coconut,N/A,473 mL,140,8,8,0,0,150,14,0,12,1,0%,0%,0%,0%,150,Espresso
+Caffè Latte,Venti®,Nonfat,N/A,591 mL,170,0.4,0.3,0,10,190,25,0,23,16,30%,0%,50%,0%,150,Espresso
+Caffè Latte,Venti®,2%,N/A,591 mL,240,9,6,0.4,35,220,24,0,22,16,25%,2%,50%,0%,150,Espresso
+Caffè Latte,Venti®,Whole,N/A,591 mL,290,15,9,0.5,45,200,24,0,22,15,20%,0%,50%,0%,150,Espresso
+Caffè Latte,Venti®,Soy,N/A,591 mL,190,7,1,0,0,170,16,2,11,13,20%,0%,50%,25%,150,Espresso
+Caffè Latte,Venti®,Coconut,N/A,591 mL,170,11,10,0,0,200,18,0,16,2,0%,0%,0%,0%,150,Espresso
+Iced Caffè Latte,Tall,Nonfat,N/A,354 mL,70,0.1,0.1,0,5,80,10,0,9,6,10%,0%,20%,0%,75,Espresso
+Iced Caffè Latte,Tall,2%,N/A,354 mL,100,3.5,2,0.1,15,90,10,0,9,6,10%,0%,20%,0%,75,Espresso
+Iced Caffè Latte,Tall,Whole,N/A,354 mL,120,6,3.5,0.2,20,85,10,0,9,6,8%,0%,20%,0%,75,Espresso
+Iced Caffè Latte,Tall,Soy,N/A,354 mL,80,3,0.4,0,0,75,7,1,4,5,8%,0%,20%,10%,75,Espresso
+Iced Caffè Latte,Tall,Coconut,N/A,354 mL,70,4,4,0,0,80,7,0,6,1,0%,0%,0%,0%,75,Espresso
+Iced Caffè Latte,Grande,Nonfat,N/A,473 mL,90,0.2,0.1,0,5,105,13,0,11,8,15%,0%,25%,0%,150,Espresso
+Iced Caffè Latte,Grande,2%,N/A,473 mL,130,4.5,2.5,0.1,20,115,13,0,11,8,15%,0%,25%,0%,150,Espresso
+Iced Caffè Latte,Grande,Whole,N/A,473 mL,150,7,4.5,0.2,25,105,13,0,11,8,10%,0%,25%,0%,150,Espresso
+Iced Caffè Latte,Grande,Soy,N/A,473 mL,100,3.5,0.5,0,0,95,9,1,5,7,10%,0%,25%,10%,150,Espresso
+Iced Caffè Latte,Grande,Coconut,N/A,473 mL,90,5,5,0,0,105,10,0,8,1,0%,0%,0%,0%,150,Espresso
+Iced Caffè Latte,Venti®,Nonfat,N/A,709 mL,130,0.3,0.2,0,5,140,19,0,16,12,20%,0%,35%,0%,225,Espresso
+Iced Caffè Latte,Venti®,2%,N/A,709 mL,180,6,3,0.2,25,160,18,0,15,12,20%,2%,35%,0%,225,Espresso
+Iced Caffè Latte,Venti®,Whole,N/A,709 mL,210,10,6,0.3,30,150,18,0,15,11,15%,0%,35%,0%,225,Espresso
+Iced Caffè Latte,Venti®,Soy,N/A,709 mL,150,5,0.5,0,0,130,13,1,8,10,15%,0%,40%,15%,225,Espresso
+Iced Caffè Latte,Venti®,Coconut,N/A,709 mL,130,7,7,0,0,150,14,0,11,2,0%,0%,2%,0%,225,Espresso
+Caffè Mocha,Short,Nonfat,No Whip,236 mL,120,1.5,1,0,5,65,21,2,17,7,8%,0%,15%,15%,90,Espresso
+Caffè Mocha,Short,Nonfat,Whip,236 mL,180,6,4,0.2,20,70,23,2,18,7,15%,0%,20%,15%,90,Espresso
+Caffè Mocha,Short,2%,No Whip,236 mL,150,4,2.5,0.1,10,70,21,2,17,7,8%,0%,15%,15%,90,Espresso
+Caffè Mocha,Short,2%,Whip,236 mL,200,9,6,0.3,30,75,22,2,18,7,15%,0%,20%,15%,90,Espresso
+Caffè Mocha,Short,Whole,No Whip,236 mL,160,6,3.5,0.1,15,65,21,2,17,6,6%,0%,15%,15%,90,Espresso
+Caffè Mocha,Short,Whole,Whip,236 mL,210,11,7,0.3,35,70,22,2,18,7,15%,0%,15%,15%,90,Espresso
+Caffè Mocha,Short,Soy,No Whip,236 mL,130,3.5,1,0,0,55,18,3,13,6,6%,0%,15%,25%,90,Espresso
+Caffè Mocha,Short,Soy,Whip,236 mL,180,9,4,0.2,20,60,20,3,14,6,10%,0%,20%,25%,90,Espresso
+Caffè Mocha,Short,Coconut,No Whip,236 mL,130,4.5,4,0,0,65,19,2,15,2,0%,0%,0%,15%,90,Espresso
+Caffè Mocha,Short,Coconut,Whip,236 mL,180,10,7,0.2,20,70,21,2,16,2,6%,0%,2%,15%,90,Espresso
+Caffè Mocha,Tall,Nonfat,No Whip,354 mL,190,2,1,0,5,100,32,3,27,10,15%,0%,30%,25%,95,Espresso
+Caffè Mocha,Tall,Nonfat,Whip,354 mL,250,8,5,0.2,25,110,34,3,28,11,20%,0%,30%,25%,95,Espresso
+Caffè Mocha,Tall,2%,No Whip,354 mL,230,6,4,0.2,20,115,32,3,26,10,15%,0%,25%,25%,95,Espresso
+Caffè Mocha,Tall,2%,Whip,354 mL,290,13,8,0.4,40,120,34,3,28,11,20%,2%,30%,25%,95,Espresso
+Caffè Mocha,Tall,Whole,No Whip,354 mL,250,9,6,0.2,25,105,32,3,26,10,10%,0%,25%,25%,95,Espresso
+Caffè Mocha,Tall,Whole,Whip,354 mL,310,16,9,0.4,45,110,34,3,28,10,20%,0%,25%,25%,95,Espresso
+Caffè Mocha,Tall,Soy,No Whip,354 mL,200,5,1.5,0,0,90,28,4,20,9,10%,0%,25%,35%,95,Espresso
+Caffè Mocha,Tall,Soy,Whip,354 mL,260,11,5,0.2,25,95,30,4,22,9,15%,0%,30%,35%,95,Espresso
+Caffè Mocha,Tall,Coconut,No Whip,354 mL,190,7,6,0,0,105,29,3,23,3,0%,0%,2%,25%,95,Espresso
+Caffè Mocha,Tall,Coconut,Whip,354 mL,250,13,10,0.2,25,110,30,3,25,3,6%,0%,2%,25%,95,Espresso
+Caffè Mocha,Grande,Nonfat,No Whip,473 mL,250,2.5,1.5,0,5,125,42,4,34,13,20%,0%,35%,35%,175,Espresso
+Caffè Mocha,Grande,Nonfat,Whip,473 mL,320,10,6,0.2,30,135,44,4,36,14,25%,0%,35%,35%,175,Espresso
+Caffè Mocha,Grande,2%,No Whip,473 mL,290,8,5,0.2,25,140,42,4,34,13,15%,2%,35%,35%,175,Espresso
+Caffè Mocha,Grande,2%,Whip,473 mL,360,15,9,0.5,50,150,44,4,35,13,25%,2%,35%,35%,175,Espresso
+Caffè Mocha,Grande,Whole,No Whip,473 mL,330,12,7,0.3,30,130,42,4,34,13,15%,0%,30%,35%,175,Espresso
+Caffè Mocha,Grande,Whole,Whip,473 mL,400,19,11,0.5,55,135,44,4,35,13,20%,0%,35%,35%,175,Espresso
+Caffè Mocha,Grande,Soy,No Whip,473 mL,260,7,2,0,0,110,37,5,26,11,10%,0%,35%,50%,175,Espresso
+Caffè Mocha,Grande,Soy,Whip,473 mL,330,14,6,0.2,25,115,39,5,28,12,20%,0%,35%,50%,175,Espresso
+Caffè Mocha,Grande,Coconut,No Whip,473 mL,250,9,8,0,0,130,38,4,30,4,0%,0%,2%,35%,175,Espresso
+Caffè Mocha,Grande,Coconut,Whip,473 mL,320,16,12,0.2,25,135,40,4,32,4,8%,0%,2%,35%,175,Espresso
+Caffè Mocha,Venti®,Nonfat,No Whip,591 mL,310,3.5,2,0,10,170,54,5,44,17,25%,0%,45%,40%,185,Espresso
+Caffè Mocha,Venti®,Nonfat,Whip,591 mL,390,10,6,0.2,35,170,56,5,45,18,30%,0%,45%,40%,185,Espresso
+Caffè Mocha,Venti®,2%,No Whip,591 mL,380,11,7,0.3,30,190,53,5,43,17,20%,2%,45%,40%,185,Espresso
+Caffè Mocha,Venti®,2%,Whip,591 mL,450,18,11,0.5,55,190,55,5,45,17,30%,2%,45%,40%,185,Espresso
+Caffè Mocha,Venti®,Whole,No Whip,591 mL,420,16,9,0.4,40,170,53,5,43,16,20%,0%,40%,40%,185,Espresso
+Caffè Mocha,Venti®,Whole,Whip,591 mL,490,23,13,0.5,65,180,55,5,45,17,25%,0%,45%,40%,185,Espresso
+Caffè Mocha,Venti®,Soy,No Whip,591 mL,330,9,2.5,0,0,140,46,6,34,15,15%,0%,45%,60%,185,Espresso
+Caffè Mocha,Venti®,Soy,Whip,591 mL,400,16,7,0.2,25,150,48,6,35,15,25%,0%,45%,60%,185,Espresso
+Caffè Mocha,Venti®,Coconut,No Whip,591 mL,320,12,10,0,0,170,48,5,38,5,0%,0%,2%,40%,185,Espresso
+Caffè Mocha,Venti®,Coconut,Whip,591 mL,390,19,15,0.2,25,180,50,5,40,5,8%,0%,4%,40%,185,Espresso
+Iced Caffè Mocha,Tall,Nonfat,No Whip,354 mL,150,2,1,0,5,65,27,3,22,7,8%,0%,15%,25%,95,Espresso
+Iced Caffè Mocha,Tall,Nonfat,Whip,354 mL,240,10,6,0.2,30,75,30,3,23,7,15%,0%,20%,25%,95,Espresso
+Iced Caffè Mocha,Tall,2%,No Whip,354 mL,180,4.5,3,0.1,10,70,27,3,21,7,8%,0%,15%,25%,95,Espresso
+Iced Caffè Mocha,Tall,2%,Whip,354 mL,260,12,8,0.4,40,80,29,3,23,7,15%,0%,20%,25%,95,Espresso
+Iced Caffè Mocha,Tall,Whole,No Whip,354 mL,190,6,3.5,0.1,15,65,27,3,21,7,6%,0%,15%,25%,95,Espresso
+Iced Caffè Mocha,Tall,Whole,Whip,354 mL,270,14,9,0.4,45,75,29,3,23,7,15%,0%,15%,25%,95,Espresso
+Iced Caffè Mocha,Tall,Soy,No Whip,354 mL,160,4,1.5,0,0,60,25,3,18,6,6%,0%,15%,30%,95,Espresso
+Iced Caffè Mocha,Tall,Soy,Whip,354 mL,240,12,6,0.2,30,65,27,3,20,7,15%,0%,20%,30%,95,Espresso
+Iced Caffè Mocha,Tall,Coconut,No Whip,354 mL,150,5,4,0,0,65,25,3,19,3,0%,0%,2%,25%,95,Espresso
+Iced Caffè Mocha,Tall,Coconut,Whip,354 mL,240,13,9,0.2,30,70,27,3,22,3,10%,0%,2%,25%,95,Espresso
+Iced Caffè Mocha,Grande,Nonfat,No Whip,473 mL,200,2.5,1.5,0,5,80,36,4,28,9,10%,0%,20%,35%,175,Espresso
+Iced Caffè Mocha,Grande,Nonfat,Whip,473 mL,320,14,8,0.3,45,90,40,4,30,10,25%,0%,25%,35%,175,Espresso
+Iced Caffè Mocha,Grande,2%,No Whip,473 mL,230,6,3.5,0.1,15,90,36,4,28,9,10%,0%,20%,35%,175,Espresso
+Iced Caffè Mocha,Grande,2%,Whip,473 mL,350,17,11,0.5,55,100,39,4,30,10,20%,0%,20%,35%,175,Espresso
+Iced Caffè Mocha,Grande,Whole,No Whip,473 mL,250,8,4.5,0.2,15,80,36,4,28,9,8%,0%,20%,35%,175,Espresso
+Iced Caffè Mocha,Grande,Whole,Whip,473 mL,360,19,12,0.5,60,95,39,4,30,9,20%,0%,20%,35%,175,Espresso
+Iced Caffè Mocha,Grande,Soy,No Whip,473 mL,210,5,2,0,0,75,33,5,24,8,6%,0%,20%,40%,175,Espresso
+Iced Caffè Mocha,Grande,Soy,Whip,473 mL,330,16,9,0.3,40,85,37,5,26,9,20%,0%,25%,40%,175,Espresso
+Iced Caffè Mocha,Grande,Coconut,No Whip,473 mL,210,6,5,0,0,80,34,4,26,4,0%,0%,2%,35%,175,Espresso
+Iced Caffè Mocha,Grande,Coconut,Whip,473 mL,320,18,12,0.3,40,95,37,4,29,4,15%,0%,4%,35%,175,Espresso
+Iced Caffè Mocha,Venti®,Nonfat,No Whip,709 mL,300,3.5,2.5,0,5,110,53,6,41,13,15%,0%,30%,50%,265,Espresso
+Iced Caffè Mocha,Venti®,Nonfat,Whip,709 mL,410,15,9,0.3,45,120,57,6,43,14,25%,0%,30%,50%,265,Espresso
+Iced Caffè Mocha,Venti®,2%,No Whip,709 mL,340,8,5,0.2,20,120,53,6,41,13,15%,0%,30%,50%,265,Espresso
+Iced Caffè Mocha,Venti®,2%,Whip,709 mL,450,19,12,0.5,60,130,56,6,43,13,25%,2%,30%,50%,265,Espresso
+Iced Caffè Mocha,Venti®,Whole,No Whip,709 mL,360,11,6,0.2,25,110,53,6,41,12,10%,0%,25%,50%,265,Espresso
+Iced Caffè Mocha,Venti®,Whole,Whip,709 mL,470,22,13,0.5,65,125,56,6,43,13,25%,0%,30%,50%,265,Espresso
+Iced Caffè Mocha,Venti®,Soy,No Whip,709 mL,310,7,2.5,0,0,100,49,7,35,12,10%,0%,30%,60%,265,Espresso
+Iced Caffè Mocha,Venti®,Soy,Whip,709 mL,430,18,10,0.3,40,110,53,7,37,12,20%,0%,30%,60%,265,Espresso
+Iced Caffè Mocha,Venti®,Coconut,No Whip,709 mL,300,9,7,0,0,115,50,6,38,5,0%,0%,4%,50%,265,Espresso
+Iced Caffè Mocha,Venti®,Coconut,Whip,709 mL,420,20,14,0.3,40,125,53,6,41,6,15%,0%,6%,50%,265,Espresso
+Cappuccino,Short,Nonfat,N/A,236 mL,50,0.1,0.1,0,5,60,8,0,7,5,8%,0%,15%,0%,75,Espresso
+Cappuccino,Short,2%,N/A,236 mL,80,3,1.5,0.1,10,70,8,0,7,5,8%,0%,15%,0%,75,Espresso
+Cappuccino,Short,Whole,N/A,236 mL,90,4.5,2.5,0.1,15,60,8,0,7,5,6%,0%,15%,0%,75,Espresso
+Cappuccino,Short,Soy,N/A,236 mL,50,1.5,0.2,0,0,40,4,0,3,3,4%,0%,10%,6%,75,Espresso
+Cappuccino,Short,Coconut,N/A,236 mL,70,4,4,0,0,75,7,0,6,1,0%,0%,0%,0%,75,Espresso
+Cappuccino,Tall,Nonfat,N/A,354 mL,60,0.1,0.1,0,5,70,9,0,8,6,10%,0%,20%,0%,75,Espresso
+Cappuccino,Tall,2%,N/A,354 mL,90,3.5,1.5,0.1,15,80,9,0,8,6,10%,0%,20%,0%,75,Espresso
+Cappuccino,Tall,Whole,N/A,354 mL,110,6,3,0.2,15,75,9,0,8,6,8%,0%,20%,0%,75,Espresso
+Cappuccino,Tall,Soy,N/A,354 mL,70,3,0.4,0,0,65,7,1,4,5,6%,0%,20%,8%,75,Espresso
+Cappuccino,Tall,Coconut,N/A,354 mL,100,6,6,0,0,115,11,0,9,1,0%,0%,0%,0%,75,Espresso
+Cappuccino,Grande,Nonfat,N/A,473 mL,80,0.2,0.1,0,5,90,12,0,10,8,15%,0%,25%,0%,150,Espresso
+Cappuccino,Grande,2%,N/A,473 mL,120,4,2,0.1,15,100,12,0,10,8,10%,0%,25%,0%,150,Espresso
+Cappuccino,Grande,Whole,N/A,473 mL,140,7,4,0.2,20,90,12,0,10,7,10%,0%,20%,0%,150,Espresso
+Cappuccino,Grande,Soy,N/A,473 mL,100,3.5,0.4,0,0,80,9,1,5,7,8%,0%,25%,10%,150,Espresso
+Cappuccino,Grande,Coconut,N/A,473 mL,130,8,8,0,0,150,14,0,12,1,0%,0%,0%,0%,150,Espresso
+Cappuccino,Venti®,Nonfat,N/A,591 mL,110,0.2,0.2,0,5,120,16,0,14,10,20%,0%,30%,0%,150,Espresso
+Cappuccino,Venti®,2%,N/A,591 mL,150,6,3,0.2,25,135,16,0,14,10,15%,0%,30%,0%,150,Espresso
+Cappuccino,Venti®,Whole,N/A,591 mL,190,9,5,0.3,30,125,16,0,14,10,15%,0%,30%,0%,150,Espresso
+Cappuccino,Venti®,Soy,N/A,591 mL,120,4.5,0.5,0,0,110,11,1,7,9,10%,0%,35%,15%,150,Espresso
+Cappuccino,Venti®,Coconut,N/A,591 mL,170,10,10,0,0,190,18,0,15,2,0%,0%,0%,0%,150,Espresso
+Caramel Macchiato,Short,Nonfat,N/A,236 mL,100,1,0.5,0,5,70,16,0,15,5,10%,0%,15%,0%,75,Espresso
+Caramel Macchiato,Short,2%,N/A,236 mL,120,4,2.5,0.1,15,80,16,0,15,5,10%,0%,15%,0%,75,Espresso
+Caramel Macchiato,Short,Whole,N/A,236 mL,140,6,3.5,0.1,20,70,16,0,15,5,8%,0%,15%,0%,75,Espresso
+Caramel Macchiato,Short,Soy,N/A,236 mL,100,3,1,0,0,60,14,1,11,4,6%,0%,15%,8%,75,Espresso
+Caramel Macchiato,Short,Coconut,N/A,236 mL,100,4,3.5,0,0,70,14,0,13,1,0%,0%,0%,0%,75,Espresso
+Caramel Macchiato,Tall,Nonfat,N/A,354 mL,150,1.5,1,0,10,105,27,0,25,8,15%,0%,25%,0%,75,Espresso
+Caramel Macchiato,Tall,2%,N/A,354 mL,190,6,3.5,0.2,20,120,26,0,25,8,15%,0%,25%,0%,75,Espresso
+Caramel Macchiato,Tall,Whole,N/A,354 mL,210,9,5,0.2,25,110,26,0,25,8,10%,0%,25%,0%,75,Espresso
+Caramel Macchiato,Tall,Soy,N/A,354 mL,160,4.5,1,0,5,95,22,1,19,6,10%,0%,25%,10%,75,Espresso
+Caramel Macchiato,Tall,Coconut,N/A,354 mL,150,6,6,0,5,105,23,0,21,1,2%,0%,0%,0%,75,Espresso
+Caramel Macchiato,Grande,Nonfat,N/A,473 mL,200,1.5,1,0,10,135,36,0,34,11,20%,0%,35%,0%,150,Espresso
+Caramel Macchiato,Grande,2%,N/A,473 mL,250,7,4.5,0.2,25,150,35,0,33,10,20%,2%,30%,0%,150,Espresso
+Caramel Macchiato,Grande,Whole,N/A,473 mL,280,11,6,0.3,35,140,35,0,33,10,15%,0%,30%,0%,150,Espresso
+Caramel Macchiato,Grande,Soy,N/A,473 mL,210,6,1.5,0,5,120,30,1,26,9,15%,0%,35%,15%,150,Espresso
+Caramel Macchiato,Grande,Coconut,N/A,473 mL,200,8,7,0,5,130,32,0,29,1,2%,0%,0%,0%,150,Espresso
+Caramel Macchiato,Venti®,Nonfat,N/A,591 mL,250,1.5,1,0,10,170,45,0,42,13,25%,0%,40%,0%,150,Espresso
+Caramel Macchiato,Venti®,2%,N/A,591 mL,310,9,6,0.3,35,190,44,0,42,13,20%,2%,40%,0%,150,Espresso
+Caramel Macchiato,Venti®,Whole,N/A,591 mL,350,13,8,0.4,40,170,44,0,42,12,20%,0%,40%,0%,150,Espresso
+Caramel Macchiato,Venti®,Soy,N/A,591 mL,260,7,1.5,0,5,150,38,1,33,11,15%,0%,40%,20%,150,Espresso
+Caramel Macchiato,Venti®,Coconut,N/A,591 mL,250,10,9,0,5,170,39,0,36,1,2%,0%,0%,0%,150,Espresso
+Iced Caramel Macchiato,Tall,Nonfat,N/A,354 mL,140,1.5,1,0,10,100,26,0,24,7,15%,0%,25%,0%,75,Espresso
+Iced Caramel Macchiato,Tall,2%,N/A,354 mL,180,5,3.5,0.2,20,110,26,0,24,7,10%,0%,20%,0%,75,Espresso
+Iced Caramel Macchiato,Tall,Whole,N/A,354 mL,200,8,4.5,0.2,25,100,26,0,24,7,10%,0%,20%,0%,75,Espresso
+Iced Caramel Macchiato,Tall,Soy,N/A,354 mL,160,4.5,1.5,0,5,90,22,1,19,6,10%,0%,25%,10%,75,Espresso
+Iced Caramel Macchiato,Tall,Coconut,N/A,354 mL,140,6,5,0,5,95,23,0,21,1,2%,0%,0%,0%,75,Espresso
+Iced Caramel Macchiato,Grande,Nonfat,N/A,473 mL,210,2,1.5,0,10,135,37,0,35,10,20%,0%,30%,0%,150,Espresso
+Iced Caramel Macchiato,Grande,2%,N/A,473 mL,250,7,4.5,0.2,25,150,37,0,34,10,15%,0%,30%,0%,150,Espresso
+Iced Caramel Macchiato,Grande,Whole,N/A,473 mL,280,11,6,0.3,35,140,37,0,34,9,15%,0%,30%,0%,150,Espresso
+Iced Caramel Macchiato,Grande,Soy,N/A,473 mL,220,6,2,0,5,125,32,1,28,8,15%,0%,30%,15%,150,Espresso
+Iced Caramel Macchiato,Grande,Coconut,N/A,473 mL,210,8,7,0,5,130,33,0,30,1,2%,0%,2%,0%,150,Espresso
+Iced Caramel Macchiato,Venti®,Nonfat,N/A,709 mL,290,2.5,1.5,0,15,180,53,0,50,14,25%,0%,45%,0%,225,Espresso
+Iced Caramel Macchiato,Venti®,2%,N/A,709 mL,350,9,6,0.3,35,200,53,0,49,13,25%,2%,40%,0%,225,Espresso
+Iced Caramel Macchiato,Venti®,Whole,N/A,709 mL,390,14,8,0.4,45,190,53,0,49,13,20%,0%,40%,0%,225,Espresso
+Iced Caramel Macchiato,Venti®,Soy,N/A,709 mL,310,8,2,0,5,170,47,1,40,11,15%,0%,45%,20%,225,Espresso
+Iced Caramel Macchiato,Venti®,Coconut,N/A,709 mL,290,10,9,0,5,170,47,0,43,2,2%,0%,2%,0%,225,Espresso
+Cinnamon Dolce Latte,Short,Nonfat,No Whip,236 mL,100,0.1,0.1,0,5,70,20,0,19,6,10%,0%,20%,0%,75,Espresso
+Cinnamon Dolce Latte,Short,Nonfat,Whip,236 mL,160,5,3.5,0.2,20,75,22,0,21,6,15%,0%,20%,0%,75,Espresso
+Cinnamon Dolce Latte,Short,2%,No Whip,236 mL,130,3,1.5,0.1,15,75,20,0,19,6,8%,0%,15%,0%,75,Espresso
+Cinnamon Dolce Latte,Short,2%,Whip,236 mL,180,8,5,0.2,30,80,22,0,20,6,15%,0%,20%,0%,75,Espresso
+Cinnamon Dolce Latte,Short,Whole,No Whip,236 mL,150,5,3,0.2,15,70,20,0,19,5,8%,0%,15%,0%,75,Espresso
+Cinnamon Dolce Latte,Short,Whole,Whip,236 mL,200,10,6,0.3,35,75,22,0,20,6,15%,0%,15%,0%,75,Espresso
+Cinnamon Dolce Latte,Short,Soy,No Whip,236 mL,110,2.5,0.3,0,0,60,17,1,15,5,6%,0%,20%,8%,75,Espresso
+Cinnamon Dolce Latte,Short,Soy,Whip,236 mL,170,8,3.5,0.2,20,65,19,1,16,5,10%,0%,20%,8%,75,Espresso
+Cinnamon Dolce Latte,Short,Coconut,No Whip,236 mL,110,3.5,3.5,0,0,70,18,0,17,1,0%,0%,0%,0%,75,Espresso
+Cinnamon Dolce Latte,Short,Coconut,Whip,236 mL,160,9,7,0.2,20,75,20,0,19,1,6%,0%,2%,0%,75,Espresso
+Cinnamon Dolce Latte,Tall,Nonfat,No Whip,354 mL,160,0.2,0.1,0,5,110,31,0,30,9,15%,0%,30%,0%,75,Espresso
+Cinnamon Dolce Latte,Tall,Nonfat,Whip,354 mL,220,6,4,0.2,30,115,33,0,31,9,25%,0%,30%,0%,75,Espresso
+Cinnamon Dolce Latte,Tall,2%,No Whip,354 mL,200,5,2.5,0.2,20,125,30,0,29,9,15%,0%,30%,0%,75,Espresso
+Cinnamon Dolce Latte,Tall,2%,Whip,354 mL,270,11,6,0.3,45,130,32,0,31,9,20%,2%,30%,0%,75,Espresso
+Cinnamon Dolce Latte,Tall,Whole,No Whip,354 mL,230,8,5,0.3,25,110,30,0,29,8,10%,0%,25%,0%,75,Espresso
+Cinnamon Dolce Latte,Tall,Whole,Whip,354 mL,290,14,9,0.4,50,120,32,0,31,9,20%,0%,30%,0%,75,Espresso
+Cinnamon Dolce Latte,Tall,Soy,No Whip,354 mL,170,4,0.5,0,0,95,26,1,23,7,10%,0%,30%,15%,75,Espresso
+Cinnamon Dolce Latte,Tall,Soy,Whip,354 mL,240,10,4.5,0.2,20,100,28,1,25,8,15%,0%,30%,15%,75,Espresso
+Cinnamon Dolce Latte,Tall,Coconut,No Whip,354 mL,160,6,6,0,0,110,27,0,26,1,0%,0%,0%,0%,75,Espresso
+Cinnamon Dolce Latte,Tall,Coconut,Whip,354 mL,230,12,9,0.2,20,115,29,0,28,1,6%,0%,2%,0%,75,Espresso
+Cinnamon Dolce Latte,Grande,Nonfat,No Whip,473 mL,210,0.3,0.2,0,5,135,40,0,38,11,20%,0%,35%,0%,150,Espresso
+Cinnamon Dolce Latte,Grande,Nonfat,Whip,473 mL,280,7,4.5,0.2,30,140,43,0,40,12,25%,0%,35%,0%,150,Espresso
+Cinnamon Dolce Latte,Grande,2%,No Whip,473 mL,260,6,3,0.2,25,150,40,0,38,11,20%,2%,35%,0%,150,Espresso
+Cinnamon Dolce Latte,Grande,2%,Whip,473 mL,330,13,8,0.4,50,160,42,0,40,12,25%,2%,35%,0%,150,Espresso
+Cinnamon Dolce Latte,Grande,Whole,No Whip,473 mL,300,10,6,0.3,30,140,40,0,38,11,15%,0%,35%,0%,150,Espresso
+Cinnamon Dolce Latte,Grande,Whole,Whip,473 mL,370,17,10,0.5,60,150,42,0,40,11,25%,0%,35%,0%,150,Espresso
+Cinnamon Dolce Latte,Grande,Soy,No Whip,473 mL,220,5,0.5,0,0,120,34,1,30,9,10%,0%,35%,15%,150,Espresso
+Cinnamon Dolce Latte,Grande,Soy,Whip,473 mL,300,12,5,0.2,25,125,37,1,32,10,20%,0%,35%,15%,150,Espresso
+Cinnamon Dolce Latte,Grande,Coconut,No Whip,473 mL,210,7,7,0,0,140,36,0,33,1,0%,0%,0%,0%,150,Espresso
+Cinnamon Dolce Latte,Grande,Coconut,Whip,473 mL,290,14,11,0.2,25,150,38,0,36,2,8%,0%,2%,0%,150,Espresso
+Cinnamon Dolce Latte,Venti®,Nonfat,No Whip,591 mL,270,0.3,0.2,0,10,180,51,0,49,15,25%,0%,45%,0%,150,Espresso
+Cinnamon Dolce Latte,Venti®,Nonfat,Whip,591 mL,340,7,4.5,0.2,35,190,54,0,51,15,35%,0%,50%,2%,150,Espresso
+Cinnamon Dolce Latte,Venti®,2%,No Whip,591 mL,330,8,4,0.2,35,200,50,0,48,15,25%,2%,45%,0%,150,Espresso
+Cinnamon Dolce Latte,Venti®,2%,Whip,591 mL,410,15,9,0.5,60,210,53,0,50,15,30%,2%,45%,0%,150,Espresso
+Cinnamon Dolce Latte,Venti®,Whole,No Whip,591 mL,380,14,8,0.4,40,180,50,0,48,14,20%,0%,45%,0%,150,Espresso
+Cinnamon Dolce Latte,Venti®,Whole,Whip,591 mL,450,21,12,0.5,70,190,53,0,50,14,30%,0%,45%,2%,150,Espresso
+Cinnamon Dolce Latte,Venti®,Soy,No Whip,591 mL,280,6,1,0,0,160,43,2,38,12,15%,0%,45%,20%,150,Espresso
+Cinnamon Dolce Latte,Venti®,Soy,Whip,591 mL,360,13,5,0.2,25,160,46,2,40,12,25%,0%,50%,20%,150,Espresso
+Cinnamon Dolce Latte,Venti®,Coconut,No Whip,591 mL,270,10,9,0,0,180,45,0,42,2,0%,0%,0%,0%,150,Espresso
+Cinnamon Dolce Latte,Venti®,Coconut,Whip,591 mL,350,17,14,0.2,25,190,47,0,45,2,8%,0%,2%,0%,150,Espresso
+Espresso,Solo,N/A,N/A,N/A,5,0,0,0,0,0,1,0,0,0,0%,0%,0%,0%,75,Espresso
+Espresso,Doppio,N/A,N/A,N/A,10,0,0,0,0,0,2,0,0,1,0%,0%,0%,0%,150,Espresso
+Espresso,Triple,N/A,N/A,N/A,15,0,0,0,0,0,3,0,0,2,0%,0%,0%,0%,225,Espresso
+Espresso,Quad,N/A,N/A,N/A,20,0,0,0,0,0,4,0,0,2,0%,0%,0%,0%,300,Espresso
+Iced Espresso,Solo,N/A,N/A,N/A,5,0,0,0,0,0,1,0,0,0,0%,0%,0%,0%,75,Espresso
+Iced Espresso,Doppio,N/A,N/A,N/A,10,0,0,0,0,0,2,0,0,1,0%,0%,0%,0%,150,Espresso
+Iced Espresso,Triple,N/A,N/A,N/A,15,0,0,0,0,0,3,0,0,2,0%,0%,0%,0%,225,Espresso
+Iced Espresso,Quad,N/A,N/A,N/A,20,0,0,0,0,0,4,0,0,2,0%,0%,0%,0%,300,Espresso
+Espresso Con Panna,Solo,N/A,Whip,N/A,30,2.5,1.5,0,10,3,2,0,1,0.5,2%,0%,0%,0%,75,Espresso
+Espresso Con Panna,Doppio,N/A,Whip,N/A,35,2.5,1.5,0.1,10,3,3,0,1,1,2%,0%,0%,0%,150,Espresso
+Espresso Con Panna,Triple,N/A,Whip,N/A,40,2.5,1.5,0.1,10,0,4,0,1,1,2%,0%,0%,0%,225,Espresso
+Espresso Con Panna,Quad,N/A,Whip,N/A,50,2.5,1.5,0.1,10,0,5,0,1,2,2%,0%,0%,0%,300,Espresso
+Espresso Macchiato,Solo,Nonfat,N/A,N/A,5,0,0,0,0,2,1,0,0,0.5,0%,0%,0%,0%,75,Espresso
+Espresso Macchiato,Solo,2%,N/A,N/A,10,0.1,0,0,0,2,1,0,0,0.5,0%,0%,0%,0%,75,Espresso
+Espresso Macchiato,Solo,Whole,N/A,N/A,10,0.1,0.1,0,0,2,1,0,0,0.5,0%,0%,0%,0%,75,Espresso
+Espresso Macchiato,Solo,Soy,N/A,N/A,5,0.1,0,0,0,2,1,0,0,0.4,0%,0%,0%,0%,75,Espresso
+Espresso Macchiato,Solo,Coconut,N/A,N/A,5,0.1,0.1,0,0,2,1,0,0,0.3,0%,0%,0%,0%,75,Espresso
+Espresso Macchiato,Doppio,Nonfat,N/A,N/A,15,0,0,0,0,2,2,0,0,1,0%,0%,0%,0%,150,Espresso
+Espresso Macchiato,Doppio,2%,N/A,N/A,15,0.1,0,0,0,2,2,0,0,1,0%,0%,0%,0%,150,Espresso
+Espresso Macchiato,Doppio,Whole,N/A,N/A,15,0.1,0,0,0,2,2,0,0,1,0%,0%,0%,0%,150,Espresso
+Espresso Macchiato,Doppio,Soy,N/A,N/A,15,0.1,0,0,0,2,2,0,0,1,0%,0%,0%,0%,150,Espresso
+Espresso Macchiato,Doppio,Coconut,N/A,N/A,10,0.1,0.1,0,0,2,2,0,0,1,0%,0%,0%,0%,150,Espresso
+Espresso Macchiato,Triple,Nonfat,N/A,N/A,20,0,0,0,0,2,3,0,0,1,0%,0%,0%,0%,225,Espresso
+Espresso Macchiato,Triple,2%,N/A,N/A,20,0.1,0,0,0,2,3,0,0,1,0%,0%,0%,0%,225,Espresso
+Espresso Macchiato,Triple,Whole,N/A,N/A,20,0.1,0,0,0,2,3,0,0,1,0%,0%,0%,0%,225,Espresso
+Espresso Macchiato,Triple,Soy,N/A,N/A,20,0.1,0,0,0,2,3,0,0,1,0%,0%,0%,0%,225,Espresso
+Espresso Macchiato,Triple,Coconut,N/A,N/A,20,0.1,0.1,0,0,2,3,0,0,1,0%,0%,0%,0%,225,Espresso
+Espresso Macchiato,Quad,Nonfat,N/A,N/A,25,0,0,0,0,2,4,0,0,2,0%,0%,0%,0%,300,Espresso
+Espresso Macchiato,Quad,2%,N/A,N/A,25,0.1,0,0,0,2,4,0,0,2,0%,0%,0%,0%,300,Espresso
+Espresso Macchiato,Quad,Whole,N/A,N/A,25,0.1,0,0,0,2,4,0,0,2,0%,0%,0%,0%,300,Espresso
+Espresso Macchiato,Quad,Soy,N/A,N/A,25,0.1,0,0,0,2,4,0,0,2,0%,0%,0%,0%,300,Espresso
+Espresso Macchiato,Quad,Coconut,N/A,N/A,25,0.1,0.1,0,0,2,4,0,0,2,0%,0%,0%,0%,300,Espresso
+Flat White,Short,Nonfat,N/A,236 mL,60,0.1,0.1,0,5,70,9,0,8,6,10%,0%,20%,0%,130,Espresso
+Flat White,Short,2%,N/A,236 mL,90,3.5,2,0.1,15,80,9,0,8,6,10%,0%,20%,0%,130,Espresso
+Flat White,Short,Whole,N/A,236 mL,110,5,3,0.2,15,70,9,0,8,6,8%,0%,15%,0%,130,Espresso
+Flat White,Short,Soy,N/A,236 mL,70,2.5,0.3,0,0,65,6,1,4,5,6%,0%,20%,8%,130,Espresso
+Flat White,Short,Coconut,N/A,236 mL,60,4,3.5,0,0,70,7,0,5,1,0%,0%,0%,0%,130,Espresso
+Flat White,Tall,Nonfat,N/A,354 mL,100,0.2,0.2,0,5,115,15,0,13,10,15%,0%,30%,0%,130,Espresso
+Flat White,Tall,2%,N/A,354 mL,140,5,3.5,0.2,20,130,14,0,13,9,15%,0%,30%,0%,130,Espresso
+Flat White,Tall,Whole,N/A,354 mL,170,9,5,0.3,25,115,14,0,13,9,15%,0%,30%,0%,130,Espresso
+Flat White,Tall,Soy,N/A,354 mL,110,4,0.5,0,0,100,10,1,6,8,10%,0%,30%,15%,130,Espresso
+Flat White,Tall,Coconut,N/A,354 mL,100,6,6,0,0,110,11,0,9,1,0%,0%,0%,0%,130,Espresso
+Flat White,Grande,Nonfat,N/A,473 mL,130,0.3,0.2,0,5,150,19,0,17,12,20%,0%,40%,0%,195,Espresso
+Flat White,Grande,2%,N/A,473 mL,180,7,4.5,0.3,30,160,18,0,17,12,20%,2%,40%,0%,195,Espresso
+Flat White,Grande,Whole,N/A,473 mL,220,11,7,0.3,35,150,18,0,17,12,15%,0%,35%,0%,195,Espresso
+Flat White,Grande,Soy,N/A,473 mL,150,5,0.5,0,0,130,13,1,8,10,15%,0%,40%,20%,195,Espresso
+Flat White,Grande,Coconut,N/A,473 mL,130,8,7,0,0,140,14,0,11,1,0%,0%,0%,0%,195,Espresso
+Flat White,Venti®,Nonfat,N/A,591 mL,170,0.4,0.3,0,10,190,24,0,23,16,30%,0%,50%,0%,195,Espresso
+Flat White,Venti®,2%,N/A,591 mL,240,9,6,0.4,35,220,24,0,22,16,25%,2%,50%,0%,195,Espresso
+Flat White,Venti®,Whole,N/A,591 mL,290,15,9,0.4,45,200,24,0,22,15,20%,0%,45%,0%,195,Espresso
+Flat White,Venti®,Soy,N/A,591 mL,190,7,1,0,0,170,16,2,11,13,20%,0%,50%,25%,195,Espresso
+Flat White,Venti®,Coconut,N/A,591 mL,170,10,10,0,0,190,18,0,15,2,0%,0%,0%,0%,195,Espresso
+Latte Macchiato,Short,Nonfat,N/A,236 mL,60,0.1,0.1,0,5,70,10,0,8,6,10%,0%,20%,0%,150,Espresso
+Latte Macchiato,Short,2%,N/A,236 mL,90,3.5,2,0.1,15,80,9,0,8,6,10%,0%,20%,0%,150,Espresso
+Latte Macchiato,Short,Whole,N/A,236 mL,110,5,3,0.2,15,70,9,0,8,6,8%,0%,15%,0%,150,Espresso
+Latte Macchiato,Short,Soy,N/A,236 mL,70,2.5,0.3,0,0,60,7,1,4,5,6%,0%,20%,8%,150,Espresso
+Latte Macchiato,Short,Coconut,N/A,236 mL,70,3.5,3.5,0,0,70,7,0,5,1,0%,0%,0%,0%,150,Espresso
+Latte Macchiato,Tall,Nonfat,N/A,354 mL,100,0.2,0.2,0,5,115,15,0,13,10,15%,0%,30%,0%,150,Espresso
+Latte Macchiato,Tall,2%,N/A,354 mL,140,5,3.5,0.2,20,130,15,0,13,9,15%,0%,30%,0%,150,Espresso
+Latte Macchiato,Tall,Whole,N/A,354 mL,170,9,5,0.3,25,115,15,0,13,9,15%,0%,30%,0%,150,Espresso
+Latte Macchiato,Tall,Soy,N/A,354 mL,110,4,0.5,0,0,100,10,1,6,8,10%,0%,30%,15%,150,Espresso
+Latte Macchiato,Tall,Coconut,N/A,354 mL,100,6,6,0,0,110,11,0,9,1,0%,0%,0%,0%,150,Espresso
+Latte Macchiato,Grande,Nonfat,N/A,473 mL,130,0.3,0.2,0,5,150,19,0,17,12,20%,0%,40%,0%,225,Espresso
+Latte Macchiato,Grande,2%,N/A,473 mL,190,7,4.5,0.3,30,160,19,0,17,12,20%,2%,40%,0%,225,Espresso
+Latte Macchiato,Grande,Whole,N/A,473 mL,220,11,6,0.3,35,150,19,0,17,12,15%,0%,35%,0%,225,Espresso
+Latte Macchiato,Grande,Soy,N/A,473 mL,140,5,0.5,0,0,125,13,1,8,10,15%,0%,40%,15%,225,Espresso
+Latte Macchiato,Grande,Coconut,N/A,473 mL,130,8,7,0,0,140,14,0,11,2,0%,0%,0%,0%,225,Espresso
+Latte Macchiato,Venti®,Nonfat,N/A,591 mL,170,0.4,0.3,0,10,190,25,0,23,16,30%,0%,50%,0%,225,Espresso
+Latte Macchiato,Venti®,2%,N/A,591 mL,240,9,6,0.4,35,210,24,0,22,16,25%,2%,50%,0%,225,Espresso
+Latte Macchiato,Venti®,Whole,N/A,591 mL,290,15,8,0.4,45,200,24,0,22,15,20%,0%,45%,0%,225,Espresso
+Latte Macchiato,Venti®,Soy,N/A,591 mL,190,7,1,0,0,170,16,2,10,13,15%,0%,50%,20%,225,Espresso
+Latte Macchiato,Venti®,Coconut,N/A,591 mL,170,10,10,0,0,190,18,0,15,2,0%,0%,0%,0%,225,Espresso
+Skinny Cinnamon Dolce Latte,Short,Nonfat,N/A,236 mL,60,0.1,0.1,0,5,80,9,0,8,6,10%,0%,20%,0%,75,Espresso
+Skinny Cinnamon Dolce Latte,Tall,Nonfat,N/A,354 mL,100,0.2,0.1,0,5,125,14,0,13,9,15%,0%,30%,0%,75,Espresso
+Skinny Cinnamon Dolce Latte,Grande,Nonfat,N/A,473 mL,120,0.3,0.2,0,5,160,19,0,16,12,20%,0%,35%,0%,150,Espresso
+Skinny Cinnamon Dolce Latte,Venti®,Nonfat,N/A,591 mL,160,0.3,0.2,0,10,200,24,0,21,15,25%,0%,50%,0%,150,Espresso
+Iced Skinny Cinnamon Dolce Latte,Tall,Nonfat,N/A,354 mL,60,0.1,0.1,0,5,80,9,0,8,6,10%,0%,20%,0%,75,Espresso
+Iced Skinny Cinnamon Dolce Latte,Grande,Nonfat,N/A,473 mL,80,0.2,0.1,0,5,105,12,0,10,7,10%,0%,20%,0%,150,Espresso
+Iced Skinny Cinnamon Dolce Latte,Venti®,Nonfat,N/A,709 mL,110,0.2,0.2,0,5,140,17,0,14,10,15%,0%,30%,0%,225,Espresso
+Skinny Mocha,Short,Nonfat,N/A,236 mL,80,1,0.5,0,5,70,12,2,7,7,8%,0%,15%,30%,75,Espresso
+Skinny Mocha,Tall,Nonfat,N/A,354 mL,130,1,1,0.1,5,115,18,3,12,11,15%,0%,30%,45%,75,Espresso
+Skinny Mocha,Grande,Nonfat,N/A,473 mL,160,1.5,1,0.1,5,140,24,4,15,14,20%,0%,35%,60%,150,Espresso
+Skinny Mocha,Venti®,Nonfat,N/A,591 mL,210,2,1.5,0.1,10,190,30,5,19,18,25%,0%,45%,70%,150,Espresso
+Iced Skinny Mocha,Tall,Nonfat,N/A,354 mL,90,1,0.5,0.1,5,75,13,3,7,7,8%,0%,15%,45%,75,Espresso
+Iced Skinny Mocha,Grande,Nonfat,N/A,473 mL,120,1.5,1,0.1,5,95,17,4,8,9,10%,0%,20%,60%,150,Espresso
+Iced Skinny Mocha,Venti®,Nonfat,N/A,709 mL,170,2.5,1.5,0.1,5,130,25,6,11,13,15%,0%,30%,90%,225,Espresso
+Starbucks Doubleshot on Ice,Tall,Nonfat,N/A,354 mL,70,0,0,0,0,35,14,0,13,3,4%,0%,8%,0%,150,Espresso
+Starbucks Doubleshot on Ice,Tall,2%,N/A,354 mL,80,1,1,0.1,5,35,14,0,13,3,4%,0%,8%,0%,150,Espresso
+Starbucks Doubleshot on Ice,Tall,Whole,N/A,354 mL,90,2,1,0.1,5,35,14,0,13,2,2%,0%,8%,0%,150,Espresso
+Starbucks Doubleshot on Ice,Tall,Soy,N/A,354 mL,70,1,0.1,0,0,30,13,0,11,2,2%,0%,8%,4%,150,Espresso
+Starbucks Doubleshot on Ice,Tall,Coconut,N/A,354 mL,70,1.5,1.5,0,0,30,13,0,12,1,0%,0%,0%,0%,150,Espresso
+Starbucks Doubleshot on Ice,Grande,Nonfat,N/A,473 mL,90,0,0,0,0,35,20,0,18,3,4%,0%,8%,0%,225,Espresso
+Starbucks Doubleshot on Ice,Grande,2%,N/A,473 mL,100,1,1,0.1,5,40,20,0,18,3,4%,0%,8%,0%,225,Espresso
+Starbucks Doubleshot on Ice,Grande,Whole,N/A,473 mL,110,2,1,0.1,5,35,20,0,18,3,2%,0%,8%,0%,225,Espresso
+Starbucks Doubleshot on Ice,Grande,Soy,N/A,473 mL,100,1,0.1,0,0,35,19,0,16,3,2%,0%,8%,4%,225,Espresso
+Starbucks Doubleshot on Ice,Grande,Coconut,N/A,473 mL,90,1.5,1.5,0,0,35,19,0,17,1,0%,0%,2%,0%,225,Espresso
+Starbucks Doubleshot on Ice,Venti®,Nonfat,N/A,709 mL,150,0.1,0.1,0,0,50,33,0,29,4,6%,0%,10%,0%,375,Espresso
+Starbucks Doubleshot on Ice,Venti®,2%,N/A,709 mL,170,2,1,0.1,5,55,33,0,29,4,6%,0%,10%,0%,375,Espresso
+Starbucks Doubleshot on Ice,Venti®,Whole,N/A,709 mL,180,3,1.5,0.1,10,50,33,0,29,4,4%,0%,10%,0%,375,Espresso
+Starbucks Doubleshot on Ice,Venti®,Soy,N/A,709 mL,160,1.5,0.2,0,0,45,31,0,27,4,4%,0%,10%,4%,375,Espresso
+Starbucks Doubleshot on Ice,Venti®,Coconut,N/A,709 mL,150,2,2,0,0,50,32,0,28,2,0%,0%,2%,0%,375,Espresso
+White Chocolate Mocha,Short,Nonfat,No Whip,236 mL,180,3,2.5,0,5,115,30,0,29,7,8%,0%,20%,0%,75,Espresso
+White Chocolate Mocha,Short,Nonfat,Whip,236 mL,230,8,6,0.2,25,120,32,0,30,7,15%,0%,25%,0%,75,Espresso
+White Chocolate Mocha,Short,2%,No Whip,236 mL,200,6,3.5,0.1,15,120,30,0,29,7,8%,2%,20%,0%,75,Espresso
+White Chocolate Mocha,Short,2%,Whip,236 mL,250,11,7,0.2,35,125,32,0,30,7,15%,2%,25%,0%,75,Espresso
+White Chocolate Mocha,Short,Whole,No Whip,236 mL,210,8,5,0.1,15,115,30,0,29,7,6%,0%,20%,0%,75,Espresso
+White Chocolate Mocha,Short,Whole,Whip,236 mL,270,13,8,0.3,35,120,32,0,30,7,15%,0%,20%,0%,75,Espresso
+White Chocolate Mocha,Short,Soy,No Whip,236 mL,180,5,2.5,0,5,105,28,1,25,6,6%,0%,20%,8%,75,Espresso
+White Chocolate Mocha,Short,Soy,Whip,236 mL,230,10,6,0.2,20,110,29,1,26,6,10%,0%,25%,8%,75,Espresso
+White Chocolate Mocha,Short,Coconut,No Whip,236 mL,180,6,5,0,5,115,28,0,27,3,0%,0%,6%,0%,75,Espresso
+White Chocolate Mocha,Short,Coconut,Whip,236 mL,230,11,9,0.2,20,120,30,0,28,3,6%,0%,8%,0%,75,Espresso
+White Chocolate Mocha,Tall,Nonfat,No Whip,354 mL,270,4.5,3.5,0,10,180,46,0,45,11,15%,2%,35%,0%,75,Espresso
+White Chocolate Mocha,Tall,Nonfat,Whip,354 mL,330,10,7,0.2,30,190,48,0,46,12,20%,2%,35%,0%,75,Espresso
+White Chocolate Mocha,Tall,2%,No Whip,354 mL,300,9,6,0.1,25,190,46,0,44,11,15%,2%,35%,0%,75,Espresso
+White Chocolate Mocha,Tall,2%,Whip,354 mL,370,15,10,0.3,45,200,47,0,46,11,20%,2%,35%,0%,75,Espresso
+White Chocolate Mocha,Tall,Whole,No Whip,354 mL,330,12,8,0.2,30,180,46,0,44,11,10%,2%,35%,0%,75,Espresso
+White Chocolate Mocha,Tall,Whole,Whip,354 mL,390,18,12,0.4,50,190,47,0,46,11,20%,2%,35%,0%,75,Espresso
+White Chocolate Mocha,Tall,Soy,No Whip,354 mL,280,8,4,0,5,170,41,1,38,10,10%,2%,35%,10%,75,Espresso
+White Chocolate Mocha,Tall,Soy,Whip,354 mL,340,14,8,0.2,25,170,43,1,40,10,15%,2%,35%,10%,75,Espresso
+White Chocolate Mocha,Tall,Coconut,No Whip,354 mL,270,10,9,0,5,180,42,0,41,4,0%,2%,10%,0%,75,Espresso
+White Chocolate Mocha,Tall,Coconut,Whip,354 mL,330,16,12,0.2,25,180,44,0,43,4,6%,2%,10%,0%,75,Espresso
+White Chocolate Mocha,Grande,Nonfat,No Whip,473 mL,350,6,4.5,0,10,230,61,0,58,14,20%,2%,45%,0%,150,Espresso
+White Chocolate Mocha,Grande,Nonfat,Whip,473 mL,420,13,9,0.2,35,240,63,0,60,15,25%,2%,45%,0%,150,Espresso
+White Chocolate Mocha,Grande,2%,No Whip,473 mL,400,11,7,0.2,30,240,60,0,58,14,15%,2%,45%,0%,150,Espresso
+White Chocolate Mocha,Grande,2%,Whip,473 mL,470,18,12,0.4,55,250,62,0,59,14,25%,2%,45%,0%,150,Espresso
+White Chocolate Mocha,Grande,Whole,No Whip,473 mL,430,15,10,0.3,35,230,60,0,58,14,15%,2%,40%,0%,150,Espresso
+White Chocolate Mocha,Grande,Whole,Whip,473 mL,500,22,14,0.5,60,240,62,0,59,14,20%,2%,45%,0%,150,Espresso
+White Chocolate Mocha,Grande,Soy,No Whip,473 mL,360,10,5,0,5,210,55,1,51,12,10%,2%,45%,15%,150,Espresso
+White Chocolate Mocha,Grande,Soy,Whip,473 mL,430,17,10,0.2,30,220,57,1,52,13,20%,2%,45%,15%,150,Espresso
+White Chocolate Mocha,Grande,Coconut,No Whip,473 mL,350,12,11,0,5,230,56,0,54,5,0%,2%,10%,0%,150,Espresso
+White Chocolate Mocha,Grande,Coconut,Whip,473 mL,420,19,15,0.2,30,230,58,0,56,6,8%,2%,15%,0%,150,Espresso
+White Chocolate Mocha,Venti®,Nonfat,No Whip,591 mL,440,7,6,0,15,300,77,0,74,18,25%,2%,60%,2%,150,Espresso
+White Chocolate Mocha,Venti®,Nonfat,Whip,591 mL,510,14,10,0.2,40,300,79,0,76,19,30%,2%,60%,2%,150,Espresso
+White Chocolate Mocha,Venti®,2%,No Whip,591 mL,500,15,10,0.2,35,320,76,0,74,18,20%,4%,60%,0%,150,Espresso
+White Chocolate Mocha,Venti®,2%,Whip,591 mL,580,22,14,0.4,65,320,78,0,75,19,30%,4%,60%,2%,150,Espresso
+White Chocolate Mocha,Venti®,Whole,No Whip,591 mL,550,20,13,0.4,45,300,76,0,74,18,20%,2%,60%,2%,150,Espresso
+White Chocolate Mocha,Venti®,Whole,Whip,591 mL,620,27,17,0.5,70,310,78,0,75,18,25%,2%,60%,2%,150,Espresso
+White Chocolate Mocha,Venti®,Soy,No Whip,591 mL,460,13,6,0,5,270,69,1,64,16,15%,2%,60%,20%,150,Espresso
+White Chocolate Mocha,Venti®,Soy,Whip,591 mL,530,20,11,0.2,30,280,71,1,65,16,25%,2%,60%,20%,150,Espresso
+White Chocolate Mocha,Venti®,Coconut,No Whip,591 mL,450,16,14,0,5,290,71,0,68,6,0%,2%,15%,0%,150,Espresso
+White Chocolate Mocha,Venti®,Coconut,Whip,591 mL,520,23,18,0.2,30,300,73,0,70,7,8%,2%,15%,0%,150,Espresso
+Iced White Chocolate Mocha,Tall,Nonfat,No Whip,354 mL,230,4.5,3.5,0,5,135,41,0,40,8,8%,2%,25%,0%,75,Espresso
+Iced White Chocolate Mocha,Tall,Nonfat,Whip,354 mL,310,12,8,0.2,35,150,43,0,41,8,15%,2%,25%,0%,75,Espresso
+Iced White Chocolate Mocha,Tall,2%,No Whip,354 mL,250,7,5,0.1,15,140,41,0,39,8,8%,2%,25%,0%,75,Espresso
+Iced White Chocolate Mocha,Tall,2%,Whip,354 mL,330,15,10,0.3,45,150,43,0,41,8,15%,2%,25%,0%,75,Espresso
+Iced White Chocolate Mocha,Tall,Whole,No Whip,354 mL,270,9,6,0.1,15,140,41,0,39,7,6%,2%,25%,0%,75,Espresso
+Iced White Chocolate Mocha,Tall,Whole,Whip,354 mL,350,17,11,0.4,45,150,43,0,41,8,15%,2%,25%,0%,75,Espresso
+Iced White Chocolate Mocha,Tall,Soy,No Whip,354 mL,240,6,3.5,0,5,130,38,1,36,7,6%,2%,25%,8%,75,Espresso
+Iced White Chocolate Mocha,Tall,Soy,Whip,354 mL,320,14,9,0.2,35,140,41,1,38,7,15%,2%,25%,8%,75,Espresso
+Iced White Chocolate Mocha,Tall,Coconut,No Whip,354 mL,230,7,6,0,5,135,39,0,37,3,0%,2%,10%,0%,75,Espresso
+Iced White Chocolate Mocha,Tall,Coconut,Whip,354 mL,310,15,11,0.2,35,140,41,0,39,4,10%,2%,10%,0%,75,Espresso
+Iced White Chocolate Mocha,Grande,Nonfat,No Whip,473 mL,310,6,4.5,0,10,170,54,0,52,10,10%,2%,30%,0%,150,Espresso
+Iced White Chocolate Mocha,Grande,Nonfat,Whip,473 mL,420,17,12,0.3,50,190,58,0,55,11,25%,2%,35%,0%,150,Espresso
+Iced White Chocolate Mocha,Grande,2%,No Whip,473 mL,330,9,6,0.1,20,180,54,0,52,10,10%,2%,30%,0%,150,Espresso
+Iced White Chocolate Mocha,Grande,2%,Whip,473 mL,450,20,13,0.4,60,200,57,0,54,11,20%,2%,30%,0%,150,Espresso
+Iced White Chocolate Mocha,Grande,Whole,No Whip,473 mL,350,11,8,0.2,20,180,54,0,52,10,8%,2%,30%,0%,150,Espresso
+Iced White Chocolate Mocha,Grande,Whole,Whip,473 mL,470,22,15,0.5,65,190,57,0,54,10,20%,2%,30%,0%,150,Espresso
+Iced White Chocolate Mocha,Grande,Soy,No Whip,473 mL,320,8,5,0,5,170,51,1,48,9,6%,2%,30%,10%,150,Espresso
+Iced White Chocolate Mocha,Grande,Soy,Whip,473 mL,430,19,12,0.3,45,180,55,1,50,10,20%,2%,35%,10%,150,Espresso
+Iced White Chocolate Mocha,Grande,Coconut,No Whip,473 mL,310,9,8,0,5,170,52,0,49,5,0%,2%,10%,0%,150,Espresso
+Iced White Chocolate Mocha,Grande,Coconut,Whip,473 mL,420,20,15,0.3,45,180,55,0,52,5,15%,2%,15%,0%,150,Espresso
+Iced White Chocolate Mocha,Venti®,Nonfat,No Whip,709 mL,450,9,7,0,10,260,81,0,77,14,15%,2%,45%,0%,225,Espresso
+Iced White Chocolate Mocha,Venti®,Nonfat,Whip,709 mL,570,20,14,0.3,55,270,84,0,80,15,25%,2%,45%,2%,225,Espresso
+Iced White Chocolate Mocha,Venti®,2%,No Whip,709 mL,490,13,9,0.1,25,270,80,0,77,14,15%,4%,45%,0%,225,Espresso
+Iced White Chocolate Mocha,Venti®,2%,Whip,709 mL,600,24,16,0.5,65,280,84,0,79,15,25%,4%,45%,0%,225,Espresso
+Iced White Chocolate Mocha,Venti®,Whole,No Whip,709 mL,520,16,11,0.2,30,260,80,0,77,14,10%,2%,40%,0%,225,Espresso
+Iced White Chocolate Mocha,Venti®,Whole,Whip,709 mL,630,27,18,0.5,70,270,84,0,79,15,25%,2%,45%,2%,225,Espresso
+Iced White Chocolate Mocha,Venti®,Soy,No Whip,709 mL,470,12,7,0,10,250,77,1,71,13,10%,2%,45%,10%,225,Espresso
+Iced White Chocolate Mocha,Venti®,Soy,Whip,709 mL,580,23,14,0.3,50,260,80,1,74,14,20%,2%,45%,10%,225,Espresso
+Iced White Chocolate Mocha,Venti®,Coconut,No Whip,709 mL,450,13,12,0,10,250,77,0,73,7,0%,2%,20%,0%,225,Espresso
+Iced White Chocolate Mocha,Venti®,Coconut,Whip,709 mL,570,25,19,0.3,50,260,80,0,76,8,15%,2%,20%,0%,225,Espresso
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,

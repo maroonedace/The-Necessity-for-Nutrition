@@ -1,0 +1,8 @@
+# === Core runtime ===
+numpy==2.2.5        # vectorised maths
+pandas==2.2.3            # dataframe ops
+scikit-learn==1.6.1      # ML models & GridSearch
+
+# === Visualisation (used in notebooks / README figures) ===
+matplotlib==3.10.1 
+seaborn==0.13.2
